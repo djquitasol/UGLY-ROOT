@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+
+body {
+  background-color: yellow;
+  color: brown;
+  background-image: url("../img/woodworking.jpg");
+}
+
+h1 {
+  color: blue;
+  background-color: aliceblue;
+  width: 60%;
+  font-family: "Permanent Marker", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  color: purple;  
+  font-family: "Playwrite IT Moderna", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 900%;
+}
